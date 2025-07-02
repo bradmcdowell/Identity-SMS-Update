@@ -8,21 +8,19 @@ This script sets your provided mobile number for all lab users so that when you 
 
 ## ▶️ How to Use
 
-1. Clone or download the repository.
-
-2. Open PowerShell and run the script:
+1. Open PowerShell and run the script:
 
     ```powershell
     .\Identity-sms-update.ps1
     ```
 
-3. When prompted, enter your mobile number in **international format**, e.g.:
+2. When prompted, enter your mobile number in **international format**, e.g.:
 
     ```
     +61411111111
     ```
 
-4. Once complete, you can log into CyberArk Identity using any of the following lab accounts:
+3. Once complete, you can log into CyberArk Identity using any of the following lab accounts:
 
     - **mike**
     - **carlos**
