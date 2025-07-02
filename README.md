@@ -33,14 +33,13 @@ This script sets your provided mobile number for all lab users so that when you 
 
 ## 🧪 Example Use Case
 
-This is useful for testing SMS-based multi-factor authentication (MFA) in a lab or demo environment, without needing multiple devices or SIMs.
+This is useful for authenticating to CyberArk Identity with different personas using SMS multi-factor authentication (MFA) in the CyberArk SkyTap environment.
 
 ## ⚠️ Notes
 
-- This script is intended for **lab environments only**. Do not use it in production.
-- Ensure your account has permission to update user profiles in CyberArk Identity.
+- This script is intended for **CyberArk lab environments only**.
 
 ## 🛠️ Requirements
 
 - PowerShell 5.1 or later
-- CyberArk Identity API access with sufficient permissions
+- ActiveDirectory PowerShell Module
