@@ -11,6 +11,7 @@ $users = @(
     @{ Name = "cindy"},
     @{ Name = "tom"},
     @{ Name = "john"},
+    @{ Name = "pamela"},
     @{ Name = "paul"}
 )
 
