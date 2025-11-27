@@ -27,6 +27,8 @@ This script sets your provided mobile number for all lab users so that when you 
     - **cindy**
     - **tom**
     - **john**
+    - **pam**
+    - **robert**
     - **paul**
 
     The SMS authentication code will now be sent to your number.
